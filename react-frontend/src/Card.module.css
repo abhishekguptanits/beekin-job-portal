@@ -1,0 +1,25 @@
+.cardStyle {
+  border: 1px;
+  border-color: black;
+  background-color: beige;
+  border-radius: 20px;
+  margin: 2%;
+  padding: 1%;
+}
+
+.cardStyle h2 {
+  font-size: 40px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.cardStyle p {
+  font-size: 17px;
+  color: violet;
+  margin: 6px;
+}
+
+p:nth-child(2) {
+  color: olive;
+}
