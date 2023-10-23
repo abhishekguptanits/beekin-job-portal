@@ -1,0 +1,6 @@
+Jobs {
+    title:
+    description:
+    experienceRequired:
+    salary:
+}
